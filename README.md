@@ -1,5 +1,5 @@
 # TwoTechies-
-This webapp is a part of the hackathon project
+This webapp is a part of the hackathon project we built !
 We are trying to develop a webapp titled - 'SatarkCorona' with the motto of "We'll get thru this,together!"
 The webapp is a COVID-19 symptom checker app which will predict the risk of the end-user suffering from coronavirus. We wish to enhance the efficiency
 of our app by adding more in-built functions to it.
